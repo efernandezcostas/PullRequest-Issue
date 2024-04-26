@@ -3,7 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .idea
-PullRequest-Issues.iml
+*.iml
 
 ### Eclipse ###
 .apt_generated
